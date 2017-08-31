@@ -1,0 +1,48 @@
+10
+
+dir
+24
+svn://ambientinformatica.servehttp.com/home/projetos/laboratorio/mercado/src/cursojava/workshop
+svn://ambientinformatica.servehttp.com/home/projetos/laboratorio
+
+
+
+2009-11-14T17:43:01.647158Z
+24
+instrutor
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+69b7cad6-a371-4b67-97b9-fc91a85f1b33
+
+
+
+
+
+
+0
+empty
+
+controle
+dir
+
+modelo
+dir
+
+persistencia
+dir
+
+util
+dir
+

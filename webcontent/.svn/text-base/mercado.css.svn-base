@@ -1,0 +1,10 @@
+.foto{
+	
+	width: 100px;
+	
+}
+.fotoMaior{
+	
+	width: 300px;
+	
+}

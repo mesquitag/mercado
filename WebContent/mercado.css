@@ -1,0 +1,88 @@
+*{
+	margin: 00px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+body {
+	background: #f4f4;
+}
+#linksbarra
+{
+
+	
+	color: #ffffff;
+	border-top: 0px solid #ddd;	
+	margin: -28px -10px;
+	float: left;	
+	height: 42px;
+	width:776px;
+	font: bold;
+	
+}
+#linksbarra ul
+{
+	margin: 0px 00px 0px 10px;
+	padding: 00px;
+	list-style-type: none;
+	border-left: 0px solid #333333;
+}
+
+#linksbarra li
+{
+	display: inline;
+	margin: 1px;
+	padding: 0px 15px 0px 10px;
+	border-right: 2px solid #dddddd;
+}
+#linksbarra li a
+{
+	text-decoration: none;
+	color: #000000;
+	font: "Comic Sans MS";
+}
+#linksbarra li a:hover
+{
+	color:#ddd;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+			
+}
+
+
+
+#geral {
+	margin: 02px auto;
+	text-align: left;
+	width: 776px;
+	background-color: #ffffff;
+	border: 1px solid #666;
+	background: #fff;
+	text-align: left;
+}
+#menu{
+	margin: 30px 00px 00px 252px;
+	text-align: left;
+	width: 776px;
+	background-color: #ffffff;
+	border: 0px solid #666;
+	background: #fff;
+	text-align: left;
+	}
+
+.edit {
+	border: 1px inset;
+	background-color: #D3D3D3;
+	color: #000000;
+}
+.foto{
+	
+	width: 100px;
+	
+}
+.fotoMaior{
+	
+	width: 300px;
+	
+}
